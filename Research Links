@@ -6,6 +6,12 @@ Robot Container.h example- https://github.com/wpilibsuite/allwpilib/blob/master/
 Robot Container.cpp example- https://github.com/wpilibsuite/allwpilib/blob/master/wpilibcExamples/src/main/cpp/examples/Frisbeebot/cpp/RobotContainer.cpp
 What is "Command Based" Programming?- https://docs.wpilib.org/en/latest/docs/software/commandbased/what-is-command-based.html#creating-a-robot-project
 
+  Simulation Research
+  Intro to Simulation- http://docs.wpilib.org/en/latest/docs/software/wpilib-tools/robot-simulation/introduction.html
+  Simulation interface- http://docs.wpilib.org/en/latest/docs/software/wpilib-tools/robot-simulation/simulation-gui.html
+
+Trajectory Tutorial- http://docs.wpilib.org/en/latest/docs/software/examples-tutorials/trajectory-tutorial/index.html
+
 Credits to First 2020 official wpilib website(docs.wpilib.org)
 
 7:00pm 1-13-2020 Made by Zach Umberger
